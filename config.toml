@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Rohrbach Science"
+theme = "rohrbachsci"
+SectionPagesMenu = "main"
+
+[params]
+    twitter = "https://www.twitter.com/rohrbachsci"
+    youtube = "https://www.youtube.com/channel/UCE3yLLQT9geEgeYPgyWwZLA"
+    github = ""

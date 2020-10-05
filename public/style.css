@@ -1,0 +1,101 @@
+body {
+  background-color: #d8f3f5;
+  background-image: url("/static/graph-paper.svg"); }
+
+* {
+  font-family: Times;
+  font-size: 16px; }
+
+a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold; }
+  a:hover {
+    color: #469646;
+    font-style: italic;
+    text-decoration: underline; }
+
+#main-container {
+  background-color: white;
+  padding: 30px;
+  border-style: solid solid solid groove;
+  border-width: 2px 1px 1px 4px; }
+  @media only screen and (min-width: 1024px) {
+    #main-container {
+      width: 1000px;
+      margin-left: auto;
+      margin-right: auto; } }
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    #main-container {
+      width: 708px;
+      margin-left: auto;
+      margin-right: auto; } }
+#website-name {
+  color: red;
+  font-weight: bold;
+  font-size: 36px;
+  text-decoration: none; }
+  #website-name:hover {
+    font-style: normal; }
+
+nav {
+  padding-bottom: 2px; }
+  @media only screen and (min-width: 1024px) {
+    nav {
+      width: 1000px;
+      margin-left: auto;
+      margin-right: auto;
+      height: 20px; } }
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    nav {
+      width: 708px;
+      margin-left: auto;
+      margin-right: auto; } }
+  nav a {
+    font-weight: normal;
+    background-color: #469646;
+    color: white;
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-width: 2px;
+    display: inline-block;
+    height: 17px;
+    border-style: solid;
+    width: 220px;
+    border-color: black; }
+    nav a:hover {
+      background-color: #a6b7a6; }
+    @media only screen and (min-width: 1024px) {
+      nav a {
+        width: 150px;
+        border-style: outset groove solid groove;
+        border-width: 5px 5px 1px 5px; } }
+#you-are-here {
+  background-color: white;
+  color: black; }
+  @media only screen and (min-width: 1024px) {
+    #you-are-here {
+      border-bottom-width: 0px; } }
+#contact {
+  text-align: left;
+  float: right;
+  background-color: brown; }
+
+h1 {
+  font-size: 28px;
+  font-weight: bold; }
+
+h2 {
+  font-size: 24px;
+  font-weight: bold; }
+
+h3 {
+  font-size: 20px;
+  font-weight: bold; }
+
+code {
+  font-family: monospace;
+  background-color: #eee;
+  border: 1px solid; }

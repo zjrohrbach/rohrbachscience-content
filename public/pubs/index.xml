@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks &amp; Publications on Rohrbach Science</title>
+    <link>http://example.org/pubs/</link>
+    <description>Recent content in Talks &amp; Publications on Rohrbach Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/pubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energy is Made Up: Interesting Conceptual Discussions around Energy and its Definition</title>
+      <link>http://example.org/pubs/energy/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/energy/</guid>
+      <description>Virtual Talk given at the Fall Meeting of the Indiana Section of AAPT in Sept, 2020.
+Abstract Following the derivation of kinetic and potential energy formulas in the Giancolli textbook, I have been stressing to my students in recent years that energy is a made-up concept, and that&amp;ndash;in principle&amp;ndash;it is not necessary for building a coherent model of interactions between objects. I discuss how energy is nothing more than a helpful &amp;ldquo;bookkeeping method&amp;rdquo; for multi-object systems.</description>
+    </item>
+    
+    <item>
+      <title>Holograms: The Boundary Between Geometric and Wave Optics</title>
+      <link>http://example.org/pubs/holograms/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/holograms/</guid>
+      <description>Talk given at the Spring Meeting of the Indiana Section of AAPT in April, 2019.
+Abstract We will use the geometric definition of a parabola to explore the properties of concave and convex mirrors. We will then expand this discussion to explore the properties of a hyperbolic mirror. Finally, we will demonstrate how a holography takes advantage of the hyperbolic nature of wave interference in order to construct what is essentially a geometric phenomenon.</description>
+    </item>
+    
+    <item>
+      <title>Cultivating Literacy without Giving up your Physics Curriculum</title>
+      <link>http://example.org/pubs/literacy/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/literacy/</guid>
+      <description>Talk given at the Spring Meeting of the Indiana Section of AAPT in April, 2018.
+Abstract There&amp;rsquo;s been a schoolwide push at Avon for increased cross-curricular literacy instruction that I have long tried to ignore because I was afraid of the time it would take away from the physics curriculum. However, over the past two years I&amp;rsquo;ve hit upon some strategies that not only foster literacy skills in students but also seem to increase the interest-level and quality of classroom discussion about physics topics.</description>
+    </item>
+    
+    <item>
+      <title>Conservation of Intellectual Momentum: Staying connected to the field of physics even if your job doesn&#39;t make you</title>
+      <link>http://example.org/pubs/intellectual-momentum/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/intellectual-momentum/</guid>
+      <description>I gave this talk to the Physics Department at Wabash College (my alma mater) in October, 2014.
+Abstract I had always known that I wanted to teach, but as I prepared to graduate from Wabash, I was hesitant to follow through on that plan. My four years of studying physics had opened my mind to a way of thinking I had grown to love and didn&amp;rsquo;t want to give up. Would teaching provide the same intellectual stimulation I had enjoyed in college?</description>
+    </item>
+    
+    <item>
+      <title>Using 3D Glasses to Tie Together Ray Optics, Wave Optics, and Color Mixing</title>
+      <link>http://example.org/pubs/3d-glasses/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/3d-glasses/</guid>
+      <description>Talk given at the Spring Meeting of the Indiana Section of AAPT in April, 2016.
+Links  PowerPoint Slides (coming soon!)  </description>
+    </item>
+    
+    <item>
+      <title>A priori which-way information in quantum interference with unstable particles</title>
+      <link>http://example.org/pubs/a-priori-which-way/</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/a-priori-which-way/</guid>
+      <description>Abstract If an unstable particle used in a two-path interference experiment decays before reaching a detector, which-way information becomes available that reduces the detected interference fringe visibility V. Here we argue that even when an unstable particle does not decay while in the interferometer, a priori which-way information is still available in the form of path predictability P which depends on the particle&amp;rsquo;s decay rate Γ. We further demonstrate that in a matter-wave Mach–Zehnder interferometer using an excited atom with an appropriately tuned cavity, P is related to V through the duality relation P^2+V^2=1.</description>
+    </item>
+    
+    <item>
+      <title>The Quest for Uncertainty: Recovering an Appreciation for Truth</title>
+      <link>http://example.org/pubs/quest-for-uncertainty/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/quest-for-uncertainty/</guid>
+      <description>Abstract In this modern age, we place much faith in our scientists and their supposed objectivity. On the other hand, we are often seduced by the subjectivity found in cultural and moral relativism. Caught between these two seemingly antithetical conceptions, it is difficult to sort out what this thing called ‘Truth’ is, how closely we can know it, and whether it even exists. In such an intellectual climate, it is easy to develop a view towards knowledge and education that is simplistic.</description>
+    </item>
+    
+    <item>
+      <title>Testing the equivalence principle with unstable particles</title>
+      <link>http://example.org/pubs/equivalence/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/equivalence/</guid>
+      <description>Abstract We develop a framework to test the equivalence principle under conditions where the quantum aspects of nature cannot be neglected, specifically in the context of interference phenomena with unstable particles. We derive the nonrelativistic quantum equation that describes the evolution of the wave function of unstable particles under the assumption of the validity of the equivalence principle and when small deviations are assumed to occur. As an example, we study the propagation of unstable particles in a COW experiment, and we briefly discuss the experimental implications of our formalism.</description>
+    </item>
+    
+    <item>
+      <title>Measuring the Exit Velocity of a Compressed Air Cannon</title>
+      <link>http://example.org/pubs/exit-velocity/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pubs/exit-velocity/</guid>
+      <description>Abstract The use of compressed air cannons in an undergraduate laboratory provides a way to illustrate the connection between diverse physics concepts, such as conservation of momentum, the work-kinetic energy theorem, gas expansion, air drag, and elementary Newtonian mechanics. However, it is not clear whether the expansion of the gas in the cannon is an adiabatic or an isothermal process. We built an air cannon that utilizes a diaphragm valve to release the pressurized gas and found that neither process accurately predicts the exit velocity of our projectile.</description>
+    </item>
+    
+  </channel>
+</rss>

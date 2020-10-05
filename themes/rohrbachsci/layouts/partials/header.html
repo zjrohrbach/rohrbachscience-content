@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    {{ .Hugo.Generator }}
+    {{ $styles := resources.Get "style.scss" | toCSS }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}">
+</head>
+
+<body>
+
+<a id="website-name" href="index.html">Rohrbach Science</a>
+
+<nav class="sidebar-nav">
+    {{ $currentPage := . }}
+    <a href="/">Home</a>
+    {{ range .Site.Menus.main }}
+    <a{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} id="you-are-here"{{end}} href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ end }}
+</nav>
+
+
+<nav>
+<!--<?php
+     foreach ( $navtabs as $tab ) {                     // generate each navtab
+         if ( $this_page == $tab[0] ) {                 //generates you-are-here id for tab matching current file.
+             $extra_id = ' id="you-are-here"';
+         } else {
+             $extra_id = '';
+         }
+         echo "\t";                                     //in order for html to be indented correctly
+         echo '<a href="/' . $tab[0] . '"' . $extra_id . '>' . $tab[1] . '</a>';
+                                                        //populate a link that links to the location in spot 0
+                                                        //with title in spot 1
+         echo "\n";                                     //in order for each <a> to start on new line in html
+     }
+?>-->
+</nav>
+
+
+
+<div id="main-container">
