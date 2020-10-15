@@ -5,6 +5,142 @@
     <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Rohrbach Science</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2020 15:06:41 -0400</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>coding</title>
+      <link>http://example.org/tags/coding/</link>
+      <pubDate>Mon, 12 Oct 2020 15:06:41 -0400</pubDate>
+      
+      <guid>http://example.org/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>energy</title>
+      <link>http://example.org/tags/energy/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physics</title>
+      <link>http://example.org/tags/physics/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>http://example.org/tags/presentation/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>http://example.org/tags/teaching/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>http://example.org/tags/fun/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>http://example.org/tags/raspberry-pi/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optics</title>
+      <link>http://example.org/tags/optics/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/optics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literacy</title>
+      <link>http://example.org/tags/literacy/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/literacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forces</title>
+      <link>http://example.org/tags/forces/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/forces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finances</title>
+      <link>http://example.org/tags/finances/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/finances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>article</title>
+      <link>http://example.org/tags/article/</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuUP</title>
+      <link>http://example.org/tags/quup/</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/quup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>http://example.org/tags/philosophy/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fluids</title>
+      <link>http://example.org/tags/fluids/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/fluids/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

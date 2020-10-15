@@ -1,9 +1,14 @@
 ---
 title: "GlowScript Animations"
 date: 2017-04-20
+description: "During the 2017 INAAPT Spring Meeting, I listened to a talk about GlowScript as a way to create `VPython` animations online.  I created the following projects just to fool around. "
+tags:
+- coding
+- fun
+- physics
 ---
 
-During the 2017 [INAAPT](https://www.inaapt.org) Spring Meeting, I listed to a talk about [GlowScript](https://www.glowscript.org/) as a way to create `VPython` animations online.  I created the following projects just to fool around. 
+During the 2017 [INAAPT](https://www.inaapt.org) Spring Meeting, I listened to a talk about [GlowScript](https://www.glowscript.org/) as a way to create `VPython` animations online.  I created the following projects just to fool around. 
 
  * [Doppler Effect Animation](https://www.glowscript.org/#/user/zachary.rohrbach/folder/Public/program/DopplerEffect) (_bug jumping on water_)
  * [Monkey & Hunter Animation](https://www.glowscript.org/#/user/zachary.rohrbach/folder/Public/program/MonkeyandHunter)
