@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Rohrbach Science</title>
-    <link>http://example.org/projects/</link>
+    <link>https://www.rohrbachscience.com/projects/</link>
     <description>Recent content in Projects on Rohrbach Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rohrbachscience.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Theme</title>
-      <link>http://example.org/projects/hugo/</link>
+      <link>https://www.rohrbachscience.com/projects/hugo/</link>
       <pubDate>Mon, 12 Oct 2020 15:06:41 -0400</pubDate>
       
-      <guid>http://example.org/projects/hugo/</guid>
+      <guid>https://www.rohrbachscience.com/projects/hugo/</guid>
       <description>The whole reason that this webite exists is to give me a toy to play with! I wanted to understand how hugo works, so I made my own Hugo theme.
-GitHub Link coming soon!</description>
+GitHub Link</description>
     </item>
     
     <item>
       <title>Diaper Tracker</title>
-      <link>http://example.org/projects/diaper-tracker/</link>
+      <link>https://www.rohrbachscience.com/projects/diaper-tracker/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/diaper-tracker/</guid>
+      <guid>https://www.rohrbachscience.com/projects/diaper-tracker/</guid>
       <description>When my first daughter was born, we were asked by the doctor to track her feedings and her wet and dirty diapers. While there are apps that do this, they are all too complicated! So I did the only logical thing: coded my own simpler app from scratch! This &amp;lsquo;app&amp;rsquo; is a collection of php scripts hosted on a Raspberry Pi on my local network. It simply allows you to keep timestamps of &amp;lsquo;poop&amp;rsquo;, &amp;lsquo;pee&amp;rsquo;, and &amp;lsquo;feed&amp;rsquo; events.</description>
     </item>
     
     <item>
       <title>Raspberry Pi Projects</title>
-      <link>http://example.org/projects/rpi/</link>
+      <link>https://www.rohrbachscience.com/projects/rpi/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/rpi/</guid>
+      <guid>https://www.rohrbachscience.com/projects/rpi/</guid>
       <description>I&amp;rsquo;ve always wanted to find something useful to do with the GPIO pins on a Raspberry Pi. Haven&amp;rsquo;t found anything useful to do yet, but I have played around with a few non-useful things!
  Controlling LED&amp;rsquo;s (with Python and with php through a hosted web server) Controlling a Stepper Motor 7-segment Display Counter and Timer  </description>
     </item>
     
     <item>
       <title>Ledger &amp; HLedger Scripts</title>
-      <link>http://example.org/projects/ledger/</link>
+      <link>https://www.rohrbachscience.com/projects/ledger/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/ledger/</guid>
+      <guid>https://www.rohrbachscience.com/projects/ledger/</guid>
       <description>I use Plain-Text Accounting and the command line tools Ledger and HLedger in order to track family finances. I have written these scripts to help me import data from monthly bank statements into my ledger file and visualize our finances.
-GitHub Link coming soon!</description>
+GitHub Link</description>
     </item>
     
     <item>
       <title>GlowScript Animations</title>
-      <link>http://example.org/projects/glowscript/</link>
+      <link>https://www.rohrbachscience.com/projects/glowscript/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/glowscript/</guid>
+      <guid>https://www.rohrbachscience.com/projects/glowscript/</guid>
       <description>During the 2017 INAAPT Spring Meeting, I listened to a talk about GlowScript as a way to create VPython animations online. I created the following projects just to fool around.
  Doppler Effect Animation (bug jumping on water) Monkey &amp;amp; Hunter Animation Bouncing Ball Animation (My first animation, and just an attempt to understand how to code free fall) Waves on a spring (This was an experiment to see if I could explore a wave as a collection of particles that only interact with neighboring particles instead of as a continuous entity.</description>
     </item>

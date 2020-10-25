@@ -3,182 +3,172 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/tags/coding/</loc>
+    <loc>https://www.rohrbachscience.com/tags/coding/</loc>
     <lastmod>2020-10-12T15:06:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/hugo/</loc>
+    <loc>https://www.rohrbachscience.com/projects/hugo/</loc>
     <lastmod>2020-10-12T15:06:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://www.rohrbachscience.com/tags/</loc>
     <lastmod>2020-10-12T15:06:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://www.rohrbachscience.com/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://www.rohrbachscience.com/projects/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://www.rohrbachscience.com/publications/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/sub-plans/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/publications/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/energy/</loc>
+    <loc>https://www.rohrbachscience.com/tags/energy/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/energy/</loc>
+    <loc>https://www.rohrbachscience.com/publications/energy/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/physics/</loc>
+    <loc>https://www.rohrbachscience.com/tags/physics/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/presentation/</loc>
+    <loc>https://www.rohrbachscience.com/tags/presentation/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/teaching/</loc>
+    <loc>https://www.rohrbachscience.com/tags/teaching/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/diaper-tracker/</loc>
+    <loc>https://www.rohrbachscience.com/projects/diaper-tracker/</loc>
     <lastmod>2019-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/fun/</loc>
+    <loc>https://www.rohrbachscience.com/tags/fun/</loc>
     <lastmod>2019-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/raspberry-pi/</loc>
+    <loc>https://www.rohrbachscience.com/tags/raspberry-pi/</loc>
     <lastmod>2019-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/holograms/</loc>
+    <loc>https://www.rohrbachscience.com/publications/holograms/</loc>
     <lastmod>2019-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/optics/</loc>
+    <loc>https://www.rohrbachscience.com/tags/optics/</loc>
     <lastmod>2019-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/rpi/</loc>
+    <loc>https://www.rohrbachscience.com/projects/rpi/</loc>
     <lastmod>2018-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/literacy/</loc>
+    <loc>https://www.rohrbachscience.com/publications/literacy/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/literacy/</loc>
+    <loc>https://www.rohrbachscience.com/tags/literacy/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/intellectual-momentum/</loc>
+    <loc>https://www.rohrbachscience.com/publications/intellectual-momentum/</loc>
     <lastmod>2017-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/forces/</loc>
+    <loc>https://www.rohrbachscience.com/tags/forces/</loc>
     <lastmod>2017-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/finances/</loc>
+    <loc>https://www.rohrbachscience.com/tags/finances/</loc>
     <lastmod>2017-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/ledger/</loc>
+    <loc>https://www.rohrbachscience.com/projects/ledger/</loc>
     <lastmod>2017-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/glowscript/</loc>
+    <loc>https://www.rohrbachscience.com/projects/glowscript/</loc>
     <lastmod>2017-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/3d-glasses/</loc>
+    <loc>https://www.rohrbachscience.com/publications/3d-glasses/</loc>
     <lastmod>2016-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/a-priori-which-way/</loc>
+    <loc>https://www.rohrbachscience.com/publications/a-priori-which-way/</loc>
     <lastmod>2014-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/article/</loc>
+    <loc>https://www.rohrbachscience.com/tags/article/</loc>
     <lastmod>2014-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/quup/</loc>
+    <loc>https://www.rohrbachscience.com/tags/quup/</loc>
     <lastmod>2014-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/philosophy/</loc>
+    <loc>https://www.rohrbachscience.com/tags/philosophy/</loc>
     <lastmod>2014-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/quest-for-uncertainty/</loc>
+    <loc>https://www.rohrbachscience.com/publications/quest-for-uncertainty/</loc>
     <lastmod>2014-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/equivalence/</loc>
+    <loc>https://www.rohrbachscience.com/publications/equivalence/</loc>
     <lastmod>2013-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/fluids/</loc>
+    <loc>https://www.rohrbachscience.com/tags/fluids/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/exit-velocity/</loc>
+    <loc>https://www.rohrbachscience.com/publications/exit-velocity/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://www.rohrbachscience.com/categories/</loc>
   </url>
   
 </urlset>

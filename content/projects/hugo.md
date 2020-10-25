@@ -8,4 +8,4 @@ tags:
 
 The whole reason that this webite exists is to give me a toy to play with!  I wanted to understand how [`hugo`](https://gohugo.io/) works, so I made my own Hugo theme.
 
-GitHub Link coming soon!
+[GitHub Link](https://github.com/zjrohrbach/hugo-rohrbachsci)
