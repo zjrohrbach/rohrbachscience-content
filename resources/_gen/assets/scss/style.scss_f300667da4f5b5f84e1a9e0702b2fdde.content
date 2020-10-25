@@ -215,10 +215,8 @@ div.mini-section-title {
   overflow: scroll;
   background: #d8f3f5;
   padding: 30px; }
-  @media only screen and (min-width: 1024px) {
-    .index-special a {
-      width: 200px;
-      max-height: 200px; } }
+  .index-special a {
+    max-height: 200px; }
   .index-special .spacer {
     width: 20px;
     display: inline-block; }
