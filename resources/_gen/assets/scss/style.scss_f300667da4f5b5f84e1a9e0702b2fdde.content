@@ -204,12 +204,6 @@ div.mini-section-title {
   #social-follow svg {
     fill: red; }
 
-#index-aside {
-  width: 200px;
-  padding: 10px;
-  overflow: scroll;
-  float: right; }
-
 .index-special {
   white-space: nowrap;
   overflow: scroll;
