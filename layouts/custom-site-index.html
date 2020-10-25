@@ -1,21 +1,29 @@
 {{ define "extra-head-matter" }}
     <style>
-        /*tweetbox style*/
         #tweetbox {
-            width: 200px;
-            height: 500px;
-            padding: 10px;
-            overflow: scroll;
-            float: right;
+            display: none;
         }
+        @media only screen and (min-width: 768px) {
+            /*tweetbox style*/
+            #tweetbox {
+                width: 200px;
+                padding: 10px;
+                overflow: scroll;
+                float: right;
+                display: block;
+                height: {{ .Param "height_of_tweetbox" | default "500px" }};
+            }
 
-        /* adjustments due to the size of the tweetbox */
-        .index-special > a {
-            width: 200px;
+            /* adjustments due to the size of the tweetbox */
+            .index-special > a {
+                width: 200px;
+            }
+            .right {
+                right: 250px;
+            }
         }
-        .right {
-            right: 250px;
-        }
+        
+        
     </style>
 {{ end }}
 

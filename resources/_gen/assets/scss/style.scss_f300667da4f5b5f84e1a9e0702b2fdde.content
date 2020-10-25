@@ -205,10 +205,16 @@ div.mini-section-title {
     fill: red; }
 
 .index-special {
-  white-space: nowrap;
-  overflow: scroll;
   background: #d8f3f5;
   padding: 30px; }
+  @media only screen and (min-width: 1024px) {
+    .index-special {
+      white-space: nowrap;
+      overflow: scroll; } }
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .index-special {
+      white-space: nowrap;
+      overflow: scroll; } }
   .index-special a {
     max-height: 200px; }
   .index-special .spacer {
