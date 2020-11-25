@@ -23,5 +23,5 @@ who have already taken chemistry.
 
 # Links
 
- * [PowerPoint Slides (.pptx)](/files/energy.pptx)
+ * [PowerPoint Slides (.pptx)](energy.pptx)
  * Recording (coming soon!)

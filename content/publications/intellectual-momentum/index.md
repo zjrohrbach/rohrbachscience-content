@@ -18,4 +18,4 @@ I had always known that I wanted to teach, but as I prepared to graduate from Wa
 
 # Links
 
- * [PowerPoint Slides (.pptx)](/files/intellectual-momentum.pptx)
+ * [PowerPoint Slides (.pptx)](intellectual-momentum.pptx)

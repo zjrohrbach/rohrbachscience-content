@@ -17,4 +17,4 @@ There's been a schoolwide push at Avon for increased cross-curricular literacy i
 
 # Links
 
- * [PowerPoint Slides (.pptx)](/files/literacy.pptx)
+ * [PowerPoint Slides (.pptx)](literacy.pptx)

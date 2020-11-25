@@ -13,4 +13,4 @@ Talk given at the Spring Meeting of the [Indiana Section of AAPT](http://www.ina
 
 # Links
 
- * [PowerPoint Slides (.pptx)](/files/3d.pptx)
+ * [PowerPoint Slides (.pptx)](3d.pptx)

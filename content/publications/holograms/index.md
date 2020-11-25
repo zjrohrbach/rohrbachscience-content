@@ -18,4 +18,4 @@ We will use the geometric definition of a parabola to explore the properties of 
 
 # Links
 
- * [PowerPoint Slides (.pptx)]('/files/holograms.pptx')
+ * [PowerPoint Slides (.pptx)](holograms.pptx)
