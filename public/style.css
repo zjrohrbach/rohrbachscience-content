@@ -31,7 +31,9 @@ a {
     #main-container {
       width: 1000px;
       margin-left: auto;
-      margin-right: auto; } }
+      margin-right: auto; }
+      #main-container img {
+        float: right; } }
   @media only screen and (min-width: 768px) and (max-width: 1023px) {
     #main-container {
       width: 708px;
@@ -204,21 +206,19 @@ div.mini-section-title {
   #social-follow svg {
     fill: red; }
 
-#index-aside {
-  width: 200px;
-  padding: 10px;
-  overflow: scroll;
-  float: right; }
-
 .index-special {
-  white-space: nowrap;
-  overflow: scroll;
   background: #d8f3f5;
   padding: 30px; }
   @media only screen and (min-width: 1024px) {
-    .index-special a {
-      width: 200px;
-      max-height: 200px; } }
+    .index-special {
+      white-space: nowrap;
+      overflow: scroll; } }
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .index-special {
+      white-space: nowrap;
+      overflow: scroll; } }
+  .index-special a {
+    max-height: 200px; }
   .index-special .spacer {
     width: 20px;
     display: inline-block; }
