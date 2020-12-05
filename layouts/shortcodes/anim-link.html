@@ -1,0 +1,8 @@
+{{ $image := .Page.Resources.GetMatch (.Get "src") }}
+{{ $image := $image.Resize "400x" }}
+{{ .Scratch.Set "image_link" $image.RelPermalink }}
+<p><a href="{{ .Get "href" }}">Link to Animation</a></p>
+<a href="{{ .Get "href" }}">
+    <img src="{{ .Scratch.Get "image_link" }}"{{ with .Get "alt" }}
+        alt="{{ . }}"{{end}} class="il" style="border: solid" />
+</a>

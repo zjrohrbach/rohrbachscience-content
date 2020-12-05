@@ -34,7 +34,11 @@ a {
       margin-left: auto;
       margin-right: auto; }
       #main-container img {
-        float: right; } }
+        float: right; }
+      #main-container img.il {
+        float: none;
+        display: block;
+        margin: auto; } }
   @media only screen and (min-width: 768px) and (max-width: 1023px) {
     #main-container {
       width: 708px;

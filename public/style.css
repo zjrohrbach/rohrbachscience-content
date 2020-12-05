@@ -26,7 +26,8 @@ a {
   border-color: #469646;
   border-radius: 10px;
   position: relative;
-  z-index: 2; }
+  z-index: 2;
+  overflow: auto; }
   @media only screen and (min-width: 1024px) {
     #main-container {
       width: 1000px;
@@ -159,6 +160,13 @@ code {
       font-size: 10px; }
     .list-container a h3 {
       font-size: 9px; }
+  .list-container a.title-only {
+    width: 80%;
+    max-height: 12px; }
+    .list-container a.title-only:hover {
+      min-height: 12px;
+      max-height: 200px;
+      height: auto; }
 
 #section-title {
   background-color: #469646;
