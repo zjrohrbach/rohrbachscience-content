@@ -32,9 +32,9 @@ a {
   overflow: auto; }
   #main-container img {
     max-width: 100%; }
-  @media only screen and (min-width: 1024px) {
+  @media only screen and (min-width: 950px) {
     #main-container {
-      width: 1000px;
+      width: 900px;
       margin-left: auto;
       margin-right: auto; }
       #main-container img {
@@ -43,7 +43,7 @@ a {
         float: none;
         display: block;
         margin: auto; } }
-  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+  @media only screen and (min-width: 768px) and (max-width: 949px) {
     #main-container {
       width: 708px;
       margin-left: auto;
@@ -61,13 +61,13 @@ nav {
   padding-bottom: 2px;
   position: relative;
   z-index: 1; }
-  @media only screen and (min-width: 1024px) {
+  @media only screen and (min-width: 950px) {
     nav {
-      width: 1000px;
+      width: 900px;
       margin-left: auto;
       margin-right: auto;
       height: 25px; } }
-  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+  @media only screen and (min-width: 768px) and (max-width: 949px) {
     nav {
       width: 708px;
       margin-left: auto;
@@ -89,7 +89,7 @@ nav {
     font-family: Helvetica, sans-serif; }
     nav a:hover {
       background-color: #a6b7a6; }
-    @media only screen and (min-width: 1024px) {
+    @media only screen and (min-width: 950px) {
       nav a {
         width: 180px;
         border-style: outset groove solid groove;
@@ -99,7 +99,7 @@ nav {
   color: white;
   border-color: #469646;
   font-weight: bold; }
-  @media only screen and (min-width: 1024px) {
+  @media only screen and (min-width: 950px) {
     #you-are-here {
       border-bottom-width: 0px; } }
 h1 {
@@ -141,10 +141,10 @@ code {
     border-radius: 10px;
     position: relative;
     white-space: normal; }
-    @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    @media only screen and (min-width: 768px) and (max-width: 949px) {
       .list-container a {
         width: 300px; } }
-    @media only screen and (min-width: 1024px) {
+    @media only screen and (min-width: 950px) {
       .list-container a {
         width: 400px; } }
     .list-container a:hover {
@@ -197,8 +197,34 @@ code {
 #page-subtitle {
   font-size: 15px; }
 
-.article-tags {
+.tag-container {
+  padding: 5px;
   font-size: 12px; }
+  .tag-container .ind-tag:hover {
+    border-color: #469646; }
+
+.master-tag-list {
+  font-size: 18px;
+  text-align: center;
+  margin: auto; }
+  @media only screen and (min-width: 950px) {
+    .master-tag-list {
+      width: 50%; } }
+  @media only screen and (min-width: 768px) and (max-width: 949px) {
+    .master-tag-list {
+      width: 50%; } }
+  .master-tag-list .ind-tag {
+    margin: 5px; }
+
+.ind-tag {
+  background-color: #d8f3f5;
+  padding: 3px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+  border-radius: 10px;
+  display: inline-block;
+  color: blue; }
 
 div.mini-section-title {
   background-color: #469646;
@@ -212,11 +238,11 @@ div.mini-section-title {
   padding: 0px 15px;
   margin: -10px -10px 10px -10px;
   width: 100%; }
-  @media only screen and (min-width: 1024px) {
+  @media only screen and (min-width: 950px) {
     div.mini-section-title {
       width: auto;
       text-align: right; } }
-  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+  @media only screen and (min-width: 768px) and (max-width: 949px) {
     div.mini-section-title {
       width: auto;
       text-align: right; } }
@@ -228,11 +254,11 @@ div.mini-section-title {
 .index-special {
   background: #d8f3f5;
   padding: 30px; }
-  @media only screen and (min-width: 1024px) {
+  @media only screen and (min-width: 950px) {
     .index-special {
       white-space: nowrap;
       overflow: scroll; } }
-  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+  @media only screen and (min-width: 768px) and (max-width: 949px) {
     .index-special {
       white-space: nowrap;
       overflow: scroll; } }
