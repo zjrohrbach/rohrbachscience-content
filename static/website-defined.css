@@ -5,6 +5,8 @@
     border-style: solid;
     border-color: #469646;
     border-width: 2px;
+    width: 95%;
+    margin: auto;
 }
 
 #contact-info p, #contact-info a {
@@ -16,10 +18,4 @@
 }
 #contact-info svg:hover {
     fill: green;
-}
-
-@media only screen and (min-width: 950px) {
-    #contact-info {
-        width: 400px;
-    }
 }

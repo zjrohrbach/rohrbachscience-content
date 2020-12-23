@@ -273,7 +273,7 @@ div.fade-block {
   width: 100px;
   position: absolute;
   z-index: 10;
-  bottom: 30px; }
+  top: 125px; }
 
 .right {
   background-image: linear-gradient(to right, transparent 60%, #d8f3f5 90%);
@@ -282,3 +282,25 @@ div.fade-block {
 .left {
   background-image: linear-gradient(to left, transparent 60%, #d8f3f5 90%);
   left: 30px; }
+
+/*
+THIS IS AN ABANDONED ATTEMPT TO USE ::after & ::before insteda of fade-blocks
+.index-special::after {
+    //background-image: linear-gradient(to right, transparent 60%, $behind-bg-color 90%);
+    background-color: black;
+    height: 305px;
+    width: 200px;
+    position: sticky;
+    display: block;
+    z-index: 10;
+    top: 0px;
+    right: 0px;
+    //bottom: 30px;
+    //right: 30px;
+    content: '';
+}
+
+.left {
+    background-image: linear-gradient(to left, transparent 60%, $behind-bg-color 90%);
+    left: 30px;
+}*/
