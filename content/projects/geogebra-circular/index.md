@@ -1,15 +1,16 @@
 ---
 title: "Circular Motion GeoGebra Animations"
 date: 2020-12-04
-description: "This pair of GeoGebra animations is designed to show that there are two ingredients to circular motion: centripetal force and forward motion.  If an object has too little centripetal force"
+description: "This pair of `GeoGebra` animations is designed to show that there are two ingredients to circular motion: centripetal force and forward motion.  If one or the other ingredient is missing, the motion will diverge from circular."
 tags:
 - coding
 - physics
 ---
 
-This pair of `GeoGebra` animations is designed to show that there are two ingredients to circular motion: centripetal force and forward motion.  If an object has too little centripetal force
+This pair of `GeoGebra` animations is designed to show that there are two ingredients to circular motion: centripetal force and forward motion.  If one or the other ingredient is missing, the motion will diverge from circular.
 
-## Minimum Speed
+Minimum Speed
+-------------
 
 This animation shows an object tied to a rope being swung in a vertical circle.  At the top of the circle, the net centripetal force needs to point in the downward direction.  Gravity provides much of this force, and any remaining force is provided by the force of tension.
 
@@ -18,7 +19,8 @@ As the object slows down, it needs less centripetal force; therefore, there can 
 {{< anim-link src="min-speed.png" alt="Minimum Speed Animation" href="https://www.geogebra.org/m/xqdrsczf" >}}
 
 
-## Maximum Speed
+Maximum Speed
+-------------
 
 This animation shows an object rolling over a semicircular hill.  At the top of the hill, the net centripetal force still needs to point down.  Gravity provides this centripetal force.  When the object is moving slow, it does not need as much centripetal force, so the normal force cancels out some of the gravity to keep the object moving in a circle.
 
