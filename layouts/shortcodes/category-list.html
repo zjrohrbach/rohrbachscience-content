@@ -1,0 +1,5 @@
+<div class="cat-list">
+{{ range .Site.Menus.main }}
+    <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+{{ end }}
+</div>

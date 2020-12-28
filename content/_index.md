@@ -5,7 +5,8 @@ layout: "custom-site-index"
 height_of_tweetbox: "575px"
 ---
 
-# About
+About
+=====
 
 I have been teaching physics at Avon High School since 2013. I also coach the school's Science Olympiad Team.
 
@@ -16,3 +17,9 @@ am being productive by doing so.
 This website is built using [`hugo`](https://www.gohugo.io/) and a [custom-coded theme](/projects/hugo/).
 
 {{< contact-info >}}
+
+
+Browse Site by Tag
+==================
+
+{{< tag-bubble >}}
