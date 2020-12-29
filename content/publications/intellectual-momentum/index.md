@@ -1,7 +1,8 @@
 ---
-title: "Conservation of Intellectual Momentum: Staying connected to the field of physics even if your job doesn't make you"
+title: "Conservation of Intellectual Momentum"
+subtitle: "Staying connected to the field of physics even if your job doesn't make you."
 date: 2017-10-14
-summary: "My four years of studying physics in undergrad had opened my mind to a way of thinking I had grown to love and didn't want to give up.  Would teaching provide the same intellectual stimulation I had enjoyed in college?"
+summary: "***Conservation of Intellectual Momentum: Staying connected to the field of physics even if your job doesn't make you.*** My four years of studying physics in undergrad had opened my mind to a way of thinking I had grown to love and didn't want to give up.  Would teaching provide the same intellectual stimulation I had enjoyed in college?"
 tags:
 - physics
 - teaching

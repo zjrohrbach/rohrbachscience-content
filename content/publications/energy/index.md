@@ -1,7 +1,8 @@
 ---
-title: "Energy is Made Up: Interesting Conceptual Discussions around Energy and its Definition"
+title: "Energy is Made Up"
+subtitle: "Interesting Conceptual Discussions around Energy and its Definition"
 date: 2020-09-26
-summary: "I discuss how energy is nothing more than a helpful 
+summary: "***Energy is Made Up: Interesting Conceptual Discussions around Energy and its Definition.*** I discuss how energy is nothing more than a helpful 
 'bookkeeping method' for multi-object systems. This leads to interesting discussions, especially for students
 who have already taken chemistry."
 tags:
