@@ -1,7 +1,7 @@
 ---
 title: "A priori which-way information in quantum interference with unstable particles"
 date: 2014-07-04
-description: "If an unstable particle used in a two-path interference experiment decays before reaching a detector, which-way information becomes available that reduces the detected interference fringe visibility."
+summary: "If an unstable particle used in a two-path interference experiment decays before reaching a detector, which-way information becomes available that reduces the detected interference fringe visibility."
 tags:
 - physics
 - QuUP

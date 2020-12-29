@@ -1,7 +1,7 @@
 ---
 title: "Measuring the Exit Velocity of a Compressed Air Cannon"
 date: 2012-01-01
-description: "We built an air cannon that utilizes a diaphragm valve to release the pressurized gas and discuss a model based on the flow of air through the valve, which is in decent agreement with our data."
+summary: "We built an air cannon that utilizes a diaphragm valve to release the pressurized gas and discuss a model based on the flow of air through the valve, which is in decent agreement with our data."
 tags:
 - physics
 - article

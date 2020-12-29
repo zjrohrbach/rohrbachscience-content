@@ -1,7 +1,7 @@
 ---
 title: "The Quest for Uncertainty: Recovering an Appreciation for Truth"
 date: 2014-06-22
-description: "I here present a simplistic view--the idea that the world is wholly knowable and that education is what Dewey called a 'quest for certainty'--and attempt to recover from it a more robust and subtle sense of Truth by exploring the philosophical differences between mathematics and science."
+summary: "I here present a simplistic view--the idea that the world is wholly knowable and that education is what Dewey called a 'quest for certainty'--and attempt to recover from it a more robust and subtle sense of Truth by exploring the philosophical differences between mathematics and science."
 tags:
 - teaching
 - philosophy

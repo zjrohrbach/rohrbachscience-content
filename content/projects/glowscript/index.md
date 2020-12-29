@@ -1,7 +1,6 @@
 ---
 title: "GlowScript Animations"
 date: 2017-04-20
-description: "During the 2017 INAAPT Spring Meeting, I listened to a talk about GlowScript as a way to create `VPython` animations online.  I created the following projects to learn the programming language and illustrate a couple physics concepts."
 tags:
 - coding
 - fun
@@ -10,6 +9,8 @@ tags:
 
 
 During the 2017 [INAAPT](https://www.inaapt.org) Spring Meeting, I listened to a talk about [GlowScript](https://www.glowscript.org/) as a way to create `VPython` animations online.  I created the following projects just to learn the programming language and illustrate a couple physics concepts.
+
+<!--more-->
 
 ## Doppler Effect Animation
 

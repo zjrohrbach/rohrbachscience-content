@@ -1,13 +1,14 @@
 ---
 title: "Circular Motion GeoGebra Animations"
 date: 2020-12-04
-description: "This pair of `GeoGebra` animations is designed to show that there are two ingredients to circular motion: centripetal force and forward motion.  If one or the other ingredient is missing, the motion will diverge from circular."
 tags:
 - coding
 - physics
 ---
 
 This pair of `GeoGebra` animations is designed to show that there are two ingredients to circular motion: centripetal force and forward motion.  If one or the other ingredient is missing, the motion will diverge from circular.
+
+<!--more-->
 
 Minimum Speed
 -------------

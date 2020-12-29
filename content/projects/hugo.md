@@ -1,7 +1,7 @@
 ---
 title: "Website Code"
 date: 2020-10-12T15:06:41-04:00
-description: "This website is generated using the Hugo Static Site Generator and a custom-coded theme.  Both the site's theme and its content can be viewed on GitHub."
+summary: "This website is generated using the Hugo Static Site Generator and a custom-coded theme.  Both the site's theme and its content can be viewed on GitHub."
 tags:
 - coding
 ---

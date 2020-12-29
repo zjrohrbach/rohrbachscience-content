@@ -1,7 +1,7 @@
 ---
 title: "Holograms: The Boundary Between Geometric and Wave Optics"
 date: 2019-04-13
-description: "We will use the geometric definitions of conic sections to explore the properties of concave, convex, and hyperbolic mirrors. We will use this to demonstrate how holography takes advantage of wave interference in order to construct what is essentially a geometric phenomenon."
+summary: "We will use the geometric definitions of conic sections to explore the properties of concave, convex, and hyperbolic mirrors and then use this to demonstrate how holography takes advantage of wave interference in order to construct what is essentially a geometric phenomenon."
 tags:
 - physics
 - teaching

@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi Projects"
 date: 2018-12-26
-description: "I've always wanted to find something useful to do with the GPIO pins on a Raspberry Pi.  Haven't found anything useful to do yet, but I have played around with a few non-useful things!"
+summary: "I've always wanted to find something useful to do with the GPIO pins on a Raspberry Pi.  Haven't found anything useful to do yet, but I have played around with a few non-useful things!"
 tags:
 - coding
 - fun

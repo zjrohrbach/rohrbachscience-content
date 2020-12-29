@@ -1,7 +1,7 @@
 ---
 title: "Testing the equivalence principle with unstable particles"
 date: 2013-06-11
-description: "We develop a framework to test the equivalence principle under conditions where the quantum aspects of nature cannot be neglected, specifically in the context of interference phenomena with unstable particles."
+summary: "We develop a framework to test the equivalence principle under conditions where the quantum aspects of nature cannot be neglected, specifically in the context of interference phenomena with unstable particles."
 tags:
 - physics
 - QuUP
