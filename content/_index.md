@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2020-10-04
-layout: "custom-site-index"
+// layout: "custom-site-index"
 height_of_tweetbox: "575px"
 ---
 
