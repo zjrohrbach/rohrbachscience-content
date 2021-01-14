@@ -1,8 +1,15 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-description: ""
+// subtitle: ""
+date: {{ dateFormat "2006-01-02" .Date }}
+// summary: ""
+// draft: true
 tags:
-- physics
+{{- range $.Site.Taxonomies.tags }}
+- {{ .Page.Title -}}
+{{ end }}
 ---
 
+Begin Text
+
+<!--more-->
