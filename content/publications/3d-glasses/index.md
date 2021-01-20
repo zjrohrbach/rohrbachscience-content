@@ -11,6 +11,7 @@ tags:
 
 Talk given at the Spring Meeting of the [Indiana Section of AAPT](http://www.inaapt.org/) in April, 2016.
 
-# Links
+Links
+-----
 
  * [PowerPoint Slides (.pptx)](3d.pptx)

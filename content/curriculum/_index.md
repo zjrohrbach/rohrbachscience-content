@@ -5,7 +5,8 @@ date: 2020-10-04T12:27:15-04:00
 
 {{< img src="strobe.jpg" >}}
 
-# Helpful Links
+Helpful Links
+-------------
 
 I maintain several collections for links that I use often in class sorted by topic:
 
@@ -19,11 +20,13 @@ I maintain several collections for links that I use often in class sorted by top
  * [Electricity](https://start.me/p/b5bOk1/electricity)
  * [Chemistry Topics (for ICP)](https://start.me/p/QRp2eO/icp-chemistry)
 
-# Worksheets and Other Materials
+Worksheets and Other Materials
+-------------
 
  * Coming Soon
 
-# Various Projects that Relate to Physics Curriculum
+Various Projects that Relate to Physics Curriculum
+-------------
 
 This is a list of talks, publications, and projects that have to do directly with the physics curriculum.
 
