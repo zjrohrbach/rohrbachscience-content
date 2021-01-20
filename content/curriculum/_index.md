@@ -3,7 +3,7 @@ title: "Curriculum"
 date: 2020-10-04T12:27:15-04:00
 ---
 
-{{< img src="strobe.jpg" >}}
+{{< img src="strobe.jpg" alt="Strobe image of falling ball" >}}
 
 Helpful Links
 -------------
