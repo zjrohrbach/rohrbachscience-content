@@ -19,3 +19,7 @@
 #contact-info svg:hover {
     fill: green;
 }
+
+.no-underline a:hover {
+    text-decoration: none;
+}
