@@ -1,6 +1,7 @@
 ---
 title: "Ledger & HLedger Scripts"
-date: 2017-05-31
+#date: 2017-05-31
+date: 2021-06-09
 tags:
 - coding
 - finances
@@ -10,4 +11,4 @@ I use [Plain-Text Accounting](https://plaintextaccounting.org/) and the command 
 
 <!--more-->
 
-[GitHub Link](https://github.com/zjrohrbach/financialscripts)
+[GitHub Link](https://github.com/zjrohrbach/hledger-importing-scripts/)
