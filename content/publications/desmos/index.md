@@ -7,7 +7,7 @@ tags:
 - physics
 - presentation
 - teaching
-alias:
+aliases:
 - /desmos/
 ---
 
