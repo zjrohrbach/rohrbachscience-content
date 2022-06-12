@@ -1,6 +1,6 @@
 <?php
   //config
-  $base_url = "https://wwww.rohrbachscience.com/goto/";
+  $base_url = "https://rohrbachscience.com/goto/";
   $alert_timeout = 3000;
   $link_to_database = __DIR__ . '/links.db';
 
