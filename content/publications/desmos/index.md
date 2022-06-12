@@ -1,7 +1,7 @@
 ---
 title: "Graphical Analysis of Lab Data using Desmos"
 // subtitle: ""
-date: 2022-04-29
+date: 2022-04-30
 summary: "I have been having students use the free online graphing calculator Desmos (www.desmos.com). It can perform linear and curve fits much more precisely than can be done by hand, but it is much friendlier to new users than Excel."
 tags:
 - physics
