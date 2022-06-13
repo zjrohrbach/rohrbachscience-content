@@ -7,17 +7,10 @@
   $dbpass = 'blowfish427';
   $dbname = 'link_shortener';
 
-  $connection = new mysqli($dbhost, $dbuser, $dbpass);
+  $connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
 
   if ($connection->connect_error) {
     echo 'Connection to database failed: ' . $connection->connect_error;
-  }
-
-  //this is defined as a function so it does not need to be called by `db_initialize.php`
-  function use_this_db() {
-    global $connection, $dbname;
-
-    $connection->query('USE ' . $dbname . ';');
   }
 
 
