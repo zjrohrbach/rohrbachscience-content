@@ -1,4 +1,0 @@
-AuthName "Password Required"
-AuthType Basic
-AuthUserFile /home/zjrohrbach/.htpasswd
-Require valid-user
