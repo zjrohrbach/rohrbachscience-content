@@ -28,7 +28,7 @@
 
   //================== REDIRECT TO A SLUG ==============================
   function goto_redirect ( $slug ) {
-    global $connection;
+    global $connection, $code;
 
     //find the db entry for the slug
     $query = 'SELECT url, link_id FROM redirects WHERE slug = ?;';
@@ -59,7 +59,10 @@
       exit();
 
     } else {
-      echo "This slug doesn't exist!";
+
+      http_response_code(404);
+      $code = "404 Not Found";
+      
     }
 
   }
