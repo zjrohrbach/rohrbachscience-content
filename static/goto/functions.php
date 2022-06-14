@@ -1,11 +1,6 @@
 <?php
   //config
-  $base_url = "http://rohrbachscience.com/goto/";
-  $alert_timeout = 3000;
-  $dbhost = 'mysql.rohrbachscience.com';
-  $dbuser = 'rohrbachmanual';
-  $dbpass = 'blowfish427';
-  $dbname = 'link_shortener';
+  include('/home/zjrohrbach/link_shortener_config.php');
 
   $connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
 
