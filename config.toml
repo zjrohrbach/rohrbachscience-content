@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Rohrbach Science"
 theme = "rohrbachsci"
 SectionPagesMenu = "main"
+paginate = 5
+
+[outputs]
+  home = ['HTML', 'JSON']
 
 [params]
     twitter = "https://www.twitter.com/rohrbachsci"
