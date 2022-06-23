@@ -9,9 +9,9 @@ paginate = 5
   home = ['HTML', 'JSON']
 
 [params]
-    twitter = "https://www.twitter.com/rohrbachsci"
-    youtube = "https://www.youtube.com/channel/UCE3yLLQT9geEgeYPgyWwZLA"
-    github = "https://github.com/zjrohrbach"
-    linkedin = "https://www.linkedin.com/in/zacharyrohrbach/"
-    favicon = "/favicon-32x32.png"
-    website-defined-css = "/website-defined.css"
+  twitter = "https://www.twitter.com/rohrbachsci"
+  youtube = "https://www.youtube.com/channel/UCE3yLLQT9geEgeYPgyWwZLA"
+  github = "https://github.com/zjrohrbach"
+  linkedin = "https://www.linkedin.com/in/zacharyrohrbach/"
+  favicon = "/favicon-32x32.png"
+  website-defined-css = "/website-defined.css"
