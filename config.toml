@@ -5,8 +5,14 @@ theme = "rohrbachsci"
 SectionPagesMenu = "main"
 paginate = 5
 
+[outputFormats]
+  [outputFormats.HTML-Snippet]
+    mediaType = 'text/html'
+    isHTML = true
+    path = 'snippets'
+
 [outputs]
-  home = ['HTML', 'JSON']
+  home = ['HTML', 'JSON', 'HTML-Snippet']
 
 [params]
   twitter = "https://www.twitter.com/rohrbachsci"
