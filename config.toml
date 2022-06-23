@@ -5,15 +5,6 @@ theme = "rohrbachsci"
 SectionPagesMenu = "main"
 paginate = 5
 
-[outputFormats]
-  [outputFormats.HTML-Snippet]
-    mediaType = 'text/html'
-    isHTML = true
-    path = 'snippets'
-
-[outputs]
-  home = ['HTML', 'JSON', 'HTML-Snippet']
-
 [params]
   twitter = "https://www.twitter.com/rohrbachsci"
   youtube = "https://www.youtube.com/channel/UCE3yLLQT9geEgeYPgyWwZLA"
@@ -21,3 +12,17 @@ paginate = 5
   linkedin = "https://www.linkedin.com/in/zacharyrohrbach/"
   favicon = "/favicon-32x32.png"
   website-defined-css = "/website-defined.css"
+
+########################################################################
+## the following has to be here for live-pagination on rohrbachsci    ##
+##                         theme to work                              ##
+########################################################################
+
+[outputFormats]
+  [outputFormats.HTML-Snippet]
+    mediaType = 'text/html'
+    isHTML = true
+    path = 'snippets'
+
+[outputs]
+  home = ['HTML', 'HTML-Snippet']
