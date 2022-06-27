@@ -18,11 +18,12 @@ paginate = 5
 ##                         theme to work                              ##
 ########################################################################
 
+
 [outputFormats]
-  [outputFormats.HTML-Snippet]
+  [outputFormats.HTML_Snippet]
     mediaType = 'text/html'
     isHTML = true
-    path = 'snippets'
+    baseName = 'snip'
 
 [outputs]
-  home = ['HTML', 'HTML-Snippet']
+  home = ['HTML', 'HTML_Snippet']
