@@ -8,7 +8,7 @@ height_of_tweetbox: "575px"
 About
 =====
 
-I have been teaching physics at Avon High School since 2013. I also coach the school's Science Olympiad Team.
+I have been teaching physics at Avon High School since 2013.
 
 This website is a collection of projects---some related to my job and many not.  Mostly, this website is just a 
 place for me to play around with `html` and other programming languages and trick myself into thinking that I 

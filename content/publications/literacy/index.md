@@ -1,7 +1,7 @@
 ---
 title: "Cultivating Literacy without Giving up your Physics Curriculum"
 date: 2018-04-21
-summary: "In this talk, I will share some strategies and my experience integrating these strategies without giving up my prized physics instruction time."
+summary: "In this talk, I share some strategies and my experience integrating these strategies without giving up my prized physics instruction time."
 tags:
 - physics
 - teaching
