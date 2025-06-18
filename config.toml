@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Rohrbach Science"
 theme = "rohrbachsci"
 SectionPagesMenu = "main"
-paginate = 5
+pagination.pagerSize = 5
 
 [params]
   twitter = "https://www.twitter.com/rohrbachsci"
