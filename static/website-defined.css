@@ -23,3 +23,17 @@
 .no-underline a:hover {
     text-decoration: none;
 }
+
+#article-container thead {
+    background: #469646;
+    color: white;
+}
+
+#article-container tr:nth-child(even) {
+    background: #d8f3f5
+}
+
+#article-container td,th {
+    padding-left: 10px;
+    padding-right: 10px;
+}
