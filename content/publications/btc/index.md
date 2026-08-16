@@ -28,6 +28,7 @@ Links
  * [My PowerPoint Slides](BTC.pptx) (.pptx)
  * [The Book](https://www.buildingthinkingclassrooms.com/books)
  * [Team Picker Wheel Tool](https://pickerwheel.com/tools/random-team-generator/)
+ * [My Custom-Coded Group Randomizer (new as of Aug, 2026!)]({{< ref "projects/group-randomizer.md" >}})
 
 
 Example Thinking Tasks and Consolidations
