@@ -4,11 +4,12 @@ subtitle: "Applying Peter Liljedahl’s Principles to the Physics Classroom"
 date: 2026-03-06
 summary: 'The book *Building Thinking Classrooms in Mathematics* by Peter Liljedahl has made waves in the mathematics teaching world over the past several years.  With a philosophy very similar to that of the Modeling curriculum, Liljedahl&apos;s "Thinking Classroom" methods are built on the idea that "thinking is the precursor to learning."  I have spent the last two years trying out some of Liljedahl&apos;s methods in my Physics I classes. I will discuss how I have been using vertical whiteboards, randomized groupings, and "consolidation from the bottom" to increase engagement and encourage collaboration.'
 tags:
-- Energy
-- Forces
-- Physics
-- Presentation
-- Teaching
+- energy
+- forces
+- physics
+- presentation
+- teaching
+- thinking classrooms
 aliases:
 - /btc/
 ---
@@ -44,3 +45,9 @@ Liljedahl has an excellent set of [non-curricular Thinking Tasks](https://www.bu
 | Free-Body Diagrams:       | [Free-body Diagrams](TT_NetForce.pdf) |                                                    | 
 | Conservation of Energy:   | [Energy](TT_ConsOfEnergy.pdf) | [Energy Consolidation](TT_ConsOfEnergy(Consolidation).pdf) |
 | Torque Mini Lab:          | [Torque](TT_Torque.pdf) ||
+
+My Classroom Setup
+-------------
+
+[Tabletop Easel Whiteboards](https://www.amazon.com/dp/B0CPLGYP5P/?coliid=I328P9HICVD3MR&colid=3RV0S4O21PW1N&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+
