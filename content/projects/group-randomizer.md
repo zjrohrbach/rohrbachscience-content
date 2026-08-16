@@ -1,7 +1,7 @@
 ---
 title: "Group Randomizer"
 date: 2026-08-15
-summary: "A simple group randomizer for the classroom written in `html` and `JavaScript`.  Saves class rosters locally via the [HTML5 Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)"
+summary: "A simple group randomizer for the classroom written in `html` and `JavaScript`.  Saves class rosters locally via the [HTML5 Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)."
 tags:
 - coding
 - teaching
